@@ -1,1 +1,20 @@
-ggs
+# <h1 style="color=27A70B">sunneeeeeeeeeeeeeeeeeeee</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2327A70B&vCenter=true&lines=welcome+to+github.com%2Fsunne777';zst+top)](https://git.io/typing-svg)
+<br>
+<a href="https://github.com/sunne777" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=sunne777&label=views&color=27A70B&style=flat-square" alt="views" />
+</a>
+<br>
+<a href="https://github.com/sunne777" target="_blank">
+    <img alt="follows" src="https://img.shields.io/github/followers/sunne777?logo=hmm&label=followers&style=flat-square&logo=appveyor&color=27A70B">
+</a>
+
+#### **zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz**
+<br><br>
+<a href="https://github.com/sunne777">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sunne777&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="oiwadev statistics" />
+</a>
+<a href="https://github.com/sunne777?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiwadev&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+</a>
+
