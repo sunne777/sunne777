@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2327A70B&vCenter=true&lines=s+u+n+n+e)](https://git.io/typing-svg)
+<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2327A70B&vCenter=true&lines=one+and+only,+github.com%2Fsunne777';zst+top)](https://git.io/typing-svg)
 <br>
 <a href="https://github.com/sunne777" target="_blank">
